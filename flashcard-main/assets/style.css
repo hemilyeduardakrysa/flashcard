@@ -7,8 +7,8 @@ body {
    font-style: italic;
 }
 footer {
-   background-color: rgb(155, 136, 156);
-   color: rgb(235, 138, 240);
+   background-color: rgb(200, 154, 241);
+   color: rgb(129, 7, 136);
    position: fixed;
    bottom: 0;
    width: 100%;
@@ -20,9 +20,6 @@ footer p {
    font-size: 0.6rem;
    margin-top: 0.5rem;
 }
-
-
-/* código omitido */
 
 #container {
    display: flex;
@@ -40,4 +37,4 @@ footer p {
    text-align: center;
 }
 
-/* código omitido */
+
